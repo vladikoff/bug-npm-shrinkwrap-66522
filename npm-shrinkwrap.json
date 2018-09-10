@@ -5,8 +5,8 @@
   "requires": true,
   "dependencies": {
     "test": {
-      "version": "github:vladikoff/Test#57267e0ba35f3df03f16dccf05102165a7e4d6e6",
-      "from": "github:vladikoff/Test#master"
+      "version": "git+https://github.com/vladikoff/Test.git#028a5421378b9dd700f9827a23432865ce9ac2f8",
+      "from": "git+https://github.com/vladikoff/Test.git#master"
     }
   }
 }
