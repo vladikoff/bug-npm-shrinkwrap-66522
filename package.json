@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "test": "github:vladikoff/Test#master"
+    "test": "git+https://github.com/vladikoff/Test#master"
   }
 }
