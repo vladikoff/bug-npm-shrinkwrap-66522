@@ -1,0 +1,12 @@
+{
+  "name": "npm-git-shrink",
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "test": {
+      "version": "github:vladikoff/Test#57267e0ba35f3df03f16dccf05102165a7e4d6e6",
+      "from": "github:vladikoff/Test#master"
+    }
+  }
+}
